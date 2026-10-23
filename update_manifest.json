@@ -1,8 +1,8 @@
-
 {
   "latest_version": "1.0.1",
-  "message": "You are using the latest version of HueZap.",
+  "update_available": true,
+  "force_update": false,
+  "message": "نسخه جدید بازی HueZap منتشر شده است. برای دریافت آخرین امکانات، بازی را به‌روزرسانی کنید.",
   "bazaar_url": "",
   "myket_url": ""
 }
-  
